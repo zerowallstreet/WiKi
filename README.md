@@ -20,21 +20,22 @@ Zero Wall Street is focused on:
 * [A Beginner's Guide to Investing in Stocks: Steps to Get Started](https://www.reddit.com/r/zerowallstreet/comments/1g98hi7/a_beginners_guide_to_investing_in_stocks_steps_to/)
 * [How to Select a Brokerage Account](https://www.reddit.com/r/zerowallstreet/comments/1gu7rbw/how_to_select_a_brokerage_account/)
 * [Essential Stock Market Terms Every Investor Should Know](https://www.reddit.com/r/zerowallstreet/comments/1hwupgt/essential_stock_market_terms_every_investor/)
+* [ETFs Available in the U.S.](https://www.reddit.com/r/zerowallstreet/comments/1i3kphb/etfs_available_in_the_us/)
 
 
 ## Reddit Quick Comments
 #### How to Start Investing?
 ```
-I created a short guideline for beginners on how they can start investing. See: https://www.reddit.com/r/zerowallstreet/comments/1g98hi7/a_beginners_guide_to_investing_in_stocks_steps_to/
+I created a short guideline for beginners on how they can start investing. See: https://www.reddit.com/r/zerowallstreet/comments/1g98hi7/a_beginners_guide_to_investing_in_stocks_steps_to
 ```
 
 #### How to Select a Broker Account
 ```
-Here is a guide on how to select a broker account. See: https://www.reddit.com/r/zerowallstreet/comments/1gu7rbw/how_to_select_a_brokerage_account/
+Here is a guide on how to select a broker account. See: https://www.reddit.com/r/zerowallstreet/comments/1gu7rbw/how_to_select_a_brokerage_account
 ```
 
 ####
 #### Essential Stock Market Terms
 ```
-Here is essential stock market terms every investor should know. See: https://www.reddit.com/r/zerowallstreet/comments/1hwupgt/essential_stock_market_terms_every_investor/
+Here is essential stock market terms every investor should know. See: https://www.reddit.com/r/zerowallstreet/comments/1hwupgt/essential_stock_market_terms_every_investor
 ```
