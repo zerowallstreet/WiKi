@@ -21,6 +21,7 @@ Zero Wall Street is focused on:
 * [How to Select a Brokerage Account](https://www.reddit.com/r/zerowallstreet/comments/1gu7rbw/how_to_select_a_brokerage_account/)
 * [Essential Stock Market Terms Every Investor Should Know](https://www.reddit.com/r/zerowallstreet/comments/1hwupgt/essential_stock_market_terms_every_investor/)
 * [ETFs Available in the U.S.](https://www.reddit.com/r/zerowallstreet/comments/1i3kphb/etfs_available_in_the_us/)
+* [U.S. ETF Alternatives for European Investors. UCITS ETFs](https://www.reddit.com/r/zerowallstreet/comments/1i6lncv/us_etf_alternatives_for_european_investors/)
 
 
 ## Reddit Quick Comments
