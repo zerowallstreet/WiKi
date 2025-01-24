@@ -27,16 +27,16 @@ Zero Wall Street is focused on:
 ## Reddit Quick Comments
 #### How to Start Investing?
 ```
-I created a short guideline for beginners on how they can start investing. See: https://www.reddit.com/r/zerowallstreet/comments/1g98hi7/a_beginners_guide_to_investing_in_stocks_steps_to
+Here is a guideline for beginners on how they can start investing. See: [How to Start Investing?](https://www.reddit.com/r/zerowallstreet/comments/1g98hi7/a_beginners_guide_to_investing_in_stocks_steps_to)
 ```
 
 #### How to Select a Broker Account
 ```
-Here is a guide on how to select a broker account. See: https://www.reddit.com/r/zerowallstreet/comments/1gu7rbw/how_to_select_a_brokerage_account
+Here is a guide on how to select a broker account. See: [How to Select a Broker?](https://www.reddit.com/r/zerowallstreet/comments/1gu7rbw/how_to_select_a_brokerage_account)
 ```
 
 ####
 #### Essential Stock Market Terms
 ```
-Here is essential stock market terms every investor should know. See: https://www.reddit.com/r/zerowallstreet/comments/1hwupgt/essential_stock_market_terms_every_investor
+Here is essential stock market terms every investor should know. See: [Essential Stock Market Terms](https://www.reddit.com/r/zerowallstreet/comments/1hwupgt/essential_stock_market_terms_every_investor)
 ```
