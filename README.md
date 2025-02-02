@@ -35,18 +35,17 @@ Here is a guideline for beginners on how they can start investing. See: [How to 
 Here is a guide on how to select a broker account. See: [How to Select a Broker?](https://www.reddit.com/r/zerowallstreet/comments/1gu7rbw/how_to_select_a_brokerage_account)
 ```
 
-####
 #### Essential Stock Market Terms
 ```
 Here is essential stock market terms every investor should know. See: [Essential Stock Market Terms](https://www.reddit.com/r/zerowallstreet/comments/1hwupgt/essential_stock_market_terms_every_investor)
 ```
 
-ETFs Available in the U.S.
+#### ETFs Available in the U.S.
 ```
 See [ETFs Available in the U.S.](https://www.reddit.com/r/zerowallstreet/comments/1i3kphb/etfs_available_in_the_us/)
 ```
 
-Books
+#### Books
 ```
 Here is a list of books I have read so far. See: [Books for Every Stock Market Investor](https://www.reddit.com/r/zerowallstreet/comments/1i18tpf/books_for_every_stock_market_investor/)
 ```
