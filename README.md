@@ -24,7 +24,7 @@ Zero Wall Street is focused on:
 * [U.S. ETF Alternatives for European Investors. UCITS ETFs](https://www.reddit.com/r/zerowallstreet/comments/1i6lncv/us_etf_alternatives_for_european_investors/)
 
 
-## Reddit Quick Comments
+## Reddit Zero Wall Street Posts
 #### How to Start Investing?
 ```
 Here is a guideline for beginners on how they can start investing. See: [How to Start Investing?](https://www.reddit.com/r/zerowallstreet/comments/1g98hi7/a_beginners_guide_to_investing_in_stocks_steps_to)
